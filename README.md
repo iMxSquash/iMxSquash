@@ -1,4 +1,4 @@
-I'm a full-stack developer building web apps with Next.js, TypeScript and Supabase. My portfolio, **[elwen.dev](https://elwen.dev)**, recreates macOS on desktop and iOS on mobile: animation curves, materials and measurements are matched against real system captures, not guessed. I favor simple, focused code over clever abstractions.
+I'm a full-stack developer. My portfolio, **[elwen.dev](https://elwen.dev)**, recreates macOS on desktop and iOS on mobile: animation curves, materials and measurements are matched against real system captures, not guessed. I favor simple, focused code over clever abstractions.
 
 ## Stack
 
@@ -15,14 +15,14 @@ I'm a full-stack developer building web apps with Next.js, TypeScript and Supaba
 <!-- · [LinkedIn](https://linkedin.com/in/...) -->
 
 <p align="center">
-  <a href="https://elwen.dev">
-    <img alt="Open elwen.dev" src="https://img.shields.io/badge/Open-elwen.dev-007AFF?style=for-the-badge&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iMxSquash/iMxSquash/output/github-snake-dark.svg">
     <img alt="Animated snake eating Elwen's GitHub contribution graph" src="https://raw.githubusercontent.com/iMxSquash/iMxSquash/output/github-snake.svg">
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://elwen.dev">
+    <img alt="Open elwen.dev" src="https://img.shields.io/badge/Open-elwen.dev-007AFF?style=for-the-badge&logoColor=white">
+  </a>
 </p>

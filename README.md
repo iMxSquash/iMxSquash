@@ -1,11 +1,11 @@
 I'm a full-stack developer. My portfolio, **[elwen.dev](https://elwen.dev)**, recreates macOS on desktop and iOS on mobile: animation curves, materials and measurements are matched against real system captures, not guessed. I favor simple, focused code over clever abstractions.
 
-[contact@elwen.dev](mailto:contact@elwen.dev) · [elwen.dev](https://elwen.dev)
+[![contact@elwen.dev](https://img.shields.io/badge/contact%40elwen.dev-34C759?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@elwen.dev) [![elwen.dev](https://img.shields.io/badge/elwen.dev-34C759?style=flat-square&logo=safari&logoColor=white)](https://elwen.dev)
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api?username=iMxSquash&show_icons=true&hide_border=true&bg_color=00000000&title_color=0A84FF&icon_color=0A84FF&text_color=EDEDED">
-    <img alt="iMxSquash's GitHub stats" width="100%" src="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api?username=iMxSquash&show_icons=true&hide_border=true&bg_color=00000000&title_color=007AFF&icon_color=007AFF&text_color=1D1D1F">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api?username=iMxSquash&show_icons=true&hide_border=true&bg_color=00000000&title_color=30D158&icon_color=30D158&text_color=EDEDED">
+    <img alt="iMxSquash's GitHub stats" width="100%" src="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api?username=iMxSquash&show_icons=true&hide_border=true&bg_color=00000000&title_color=34C759&icon_color=34C759&text_color=1D1D1F">
   </picture>
 </p>
 
@@ -18,14 +18,14 @@ I'm a full-stack developer. My portfolio, **[elwen.dev](https://elwen.dev)**, re
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api/wakatime/?username=76faf8e3-9c7d-4ce7-bcc8-6edac1144799&langs_count=20&hide_border=true&bg_color=00000000&title_color=0A84FF&text_color=EDEDED">
-    <img alt="iMxSquash's WakaTime coding activity" width="100%" src="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api/wakatime/?username=76faf8e3-9c7d-4ce7-bcc8-6edac1144799&langs_count=20&hide_border=true&bg_color=00000000&title_color=007AFF&text_color=1D1D1F">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api/wakatime/?username=76faf8e3-9c7d-4ce7-bcc8-6edac1144799&langs_count=20&hide_border=true&bg_color=00000000&title_color=30D158&text_color=EDEDED">
+    <img alt="iMxSquash's WakaTime coding activity" width="100%" src="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api/wakatime/?username=76faf8e3-9c7d-4ce7-bcc8-6edac1144799&langs_count=20&hide_border=true&bg_color=00000000&title_color=34C759&text_color=1D1D1F">
   </picture>
 </p>
 
 <p align="center">
   <a href="https://elwen.dev">
-    <img alt="Open elwen.dev" src="https://img.shields.io/badge/Open-elwen.dev-007AFF?style=for-the-badge&logoColor=white">
+    <img alt="Open elwen.dev" src="https://img.shields.io/badge/Open-elwen.dev-34C759?style=for-the-badge&logoColor=white">
   </a>
 </p>
 

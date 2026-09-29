@@ -19,12 +19,8 @@ I'm a full-stack developer. My portfolio, **[elwen.dev](https://elwen.dev)**, re
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api/top-langs/?username=iMxSquash&layout=compact&hide_border=true&bg_color=00000000&title_color=0A84FF&text_color=EDEDED">
-    <img alt="iMxSquash's most used languages" src="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api/top-langs/?username=iMxSquash&layout=compact&hide_border=true&bg_color=00000000&title_color=007AFF&text_color=1D1D1F">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api/wakatime/?username=iMxSquash&layout=compact&hide_border=true&bg_color=00000000&title_color=0A84FF&text_color=EDEDED">
-    <img alt="iMxSquash's WakaTime coding activity" src="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api/wakatime/?username=iMxSquash&layout=compact&hide_border=true&bg_color=00000000&title_color=007AFF&text_color=1D1D1F">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api/wakatime/?username=76faf8e3-9c7d-4ce7-bcc8-6edac1144799&langs_count=20&hide_border=true&bg_color=00000000&title_color=0A84FF&text_color=EDEDED">
+    <img alt="iMxSquash's WakaTime coding activity" width="100%" src="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api/wakatime/?username=76faf8e3-9c7d-4ce7-bcc8-6edac1144799&langs_count=20&hide_border=true&bg_color=00000000&title_color=007AFF&text_color=1D1D1F">
   </picture>
 </p>
 

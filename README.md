@@ -10,6 +10,15 @@ I'm a full-stack developer. My portfolio, **[elwen.dev](https://elwen.dev)**, re
 | **CMS** | ![WordPress](https://img.shields.io/badge/WordPress-007AFF?style=flat-square&logo=wordpress&logoColor=white) |
 | **Infra / Tooling** | ![Vercel](https://img.shields.io/badge/Vercel-007AFF?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-007AFF?style=flat-square&logo=render&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-007AFF?style=flat-square&logo=githubactions&logoColor=white) ![Nx](https://img.shields.io/badge/Nx-007AFF?style=flat-square&logo=nx&logoColor=white) |
 
+## Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api?username=iMxSquash&show_icons=true&hide_border=true&bg_color=00000000&title_color=0A84FF&icon_color=0A84FF&text_color=EDEDED">
+    <img alt="iMxSquash's GitHub stats" src="https://github-readme-stats-imxsquash-b2bs-projects-d4663ea5.vercel.app/api?username=iMxSquash&show_icons=true&hide_border=true&bg_color=00000000&title_color=007AFF&icon_color=007AFF&text_color=1D1D1F">
+  </picture>
+</p>
+
 ## Contact
 
 [contact@elwen.dev](mailto:contact@elwen.dev) · [elwen.dev](https://elwen.dev)
